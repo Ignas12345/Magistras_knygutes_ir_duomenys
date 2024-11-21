@@ -1,0 +1,73 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNytUSEBLAo+cTvOfTNpGtL",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Ignas12345/Magistro_projektas/blob/main/NN_bandymas\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import torch\n",
+        "import torch.nn as nn\n",
+        "import torch.nn.functional as F\n",
+        "\n",
+        "class SparseNN(nn.Module):\n",
+        "    def __init__(self, input_dim):\n",
+        "        super(SparseNN, self).__init__()\n",
+        "        self.input_dim = input_dim\n",
+        "\n",
+        "        # First layer: Transformation to positive or negative outputs\n",
+        "        self.first_layer = nn.Linear(input_dim, input_dim, bias=False)\n",
+        "\n",
+        "        # Output layer: Weighted summation and tanh activation\n",
+        "        self.output_weights = nn.Parameter(torch.randn(input_dim))\n",
+        "\n",
+        "    def forward(self, x):\n",
+        "        # Constrain first layer output to be positive or negative\n",
+        "        first_layer_output = torch.sign(self.first_layer(x))\n",
+        "\n",
+        "        # Apply sparse weighting\n",
+        "        weighted_sum = torch.matmul(first_layer_output, self.output_weights)\n",
+        "\n",
+        "        # Apply tanh activation\n",
+        "        output = torch.tanh(weighted_sum)\n",
+        "        return output\n",
+        "\n",
+        "# Initialize the model\n",
+        "input_dim = 1800\n",
+        "model = SparseNN(input_dim)\n",
+        "\n",
+        "# Define a loss function and optimizer\n",
+        "criterion = nn.BCELoss()  # Binary Cross Entropy Loss for binary classification\n",
+        "optimizer = torch.optim.Adam(model.parameters(), lr=0.001, weight_decay=1e-5)  # L1 sparsity via weight_decay\n"
+      ],
+      "metadata": {
+        "id": "-Qi0o4PSV5qf"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
