@@ -1,1 +1,1 @@
-Pirmi 6 stulpeliai duomenu faile priklauso teratoma, benign pacientams.
+Pirmi 6 stulpeliai duomenu failuose dažniausiai priklauso teratoma, benign pacientams.
