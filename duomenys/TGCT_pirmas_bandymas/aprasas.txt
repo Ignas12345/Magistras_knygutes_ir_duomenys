@@ -1,0 +1,1 @@
+Čia yra primas bandymas atsisiųsti duomenis. Naudota TCGABiolinks biblioteka. Viskas gerai, tik vėliau kilo bėdų bandant atsisiųsti klinikinius duomenis

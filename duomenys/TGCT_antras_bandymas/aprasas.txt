@@ -1,0 +1,1 @@
+Šitam foldery atsisiųsti TCGA-TGCT tyrimo duomenys naudojant kitokį metodą tiesiog (GenomicDataCommons R biblioteką), nes praeitas metodas nustojo veikti. Iš idėjos rezultatai turėtų būti identiški ir su šiais ir su kito folderio duomenimis. Taip pat, čia turėtų būti klinikiniai duomenys.
