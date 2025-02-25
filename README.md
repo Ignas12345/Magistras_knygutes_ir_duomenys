@@ -1,1 +1,1 @@
-Pirmi 6 stulpeliai duomenu failuose dažniausiai priklauso teratoma, benign pacientams.
+Šičia yra įvairios knygutės ir dalis reikalingų duomenų.
