@@ -1,0 +1,207 @@
+,label,Age_Bin
+GTEX-WVLH-2626-SM-4MVNV,gtex_training_sample,50-59
+GTEX-144GM-0426-SM-5Q5C8,gtex_training_sample,20-29
+TCGA-2G-AAH4-01A,Mixed germ cell tumor,30-39
+TCGA-VF-A8AA-01A,"Seminoma, NOS",50-59
+GTEX-1LBAC-1826-SM-D3L9X,gtex_training_sample,20-29
+TCGA-XE-AAO3-01A,"Seminoma, NOS",30-39
+GTEX-11P82-1526-SM-5BC5M,gtex_training_sample,20-29
+TCGA-2G-AAH2-01A,Mixed germ cell tumor,20-29
+TCGA-VF-A8AB-01A,"Seminoma, NOS",30-39
+TCGA-WZ-A7V4-01A,"Seminoma, NOS",20-29
+TCGA-4K-AA1G-01A,"Seminoma, NOS",30-39
+TCGA-2G-AAGS-01A,Mixed germ cell tumor,30-39
+GTEX-WOFM-1126-SM-4M9QN,gtex_training_sample,20-29
+TCGA-YU-A90W-01A,"Seminoma, NOS",40-49
+GTEX-183FY-1926-SM-7KFRI,gtex_training_sample,20-29
+GTEX-13NZB-2026-SM-5MR4M,gtex_training_sample,30-39
+TCGA-2G-AAHA-01A,"Seminoma, NOS",40-49
+GTEX-PW2O-1426-SM-48TCD,gtex_training_sample,20-29
+GTEX-1RAZQ-1126-SM-EAZ4S,gtex_training_sample,30-39
+GTEX-1S5ZA-1726-SM-HLJR2,gtex_training_sample,20-29
+GTEX-XPT6-1626-SM-4B655,gtex_training_sample,20-29
+GTEX-1I6K6-2226-SM-GA8ZJ,gtex_training_sample,30-39
+GTEX-QEG4-0126-SM-48TZE,gtex_training_sample,30-39
+GTEX-13OVK-2226-SM-6LPJY,gtex_training_sample,40-49
+GTEX-1K2DU-2226-SM-CXZJY,gtex_training_sample,20-29
+GTEX-1OJC3-2026-SM-F2I25,gtex_training_sample,20-29
+TCGA-W4-A7U2-01A,Mixed germ cell tumor,20-29
+GTEX-14B4R-1026-SM-5TDDS,gtex_training_sample,30-39
+TCGA-2G-AAKM-01A,Mixed germ cell tumor,<20
+TCGA-WZ-A8D5-01A,"Seminoma, NOS",30-39
+GTEX-1KWVE-1126-SM-DHXJY,gtex_training_sample,30-39
+GTEX-QLQW-1026-SM-447A9,gtex_training_sample,30-39
+GTEX-13111-1526-SM-5EGJX,gtex_training_sample,50-59
+GTEX-1HCU7-2926-SM-GA91J,gtex_training_sample,50-59
+TCGA-2G-AAHP-05A,"Seminoma, NOS",30-39
+TCGA-2G-AAGI-01A,Mixed germ cell tumor,30-39
+GTEX-17MF6-2726-SM-7IGMZ,gtex_training_sample,40-49
+TCGA-2G-AAG9-01A,"Seminoma, NOS",20-29
+GTEX-16YQH-1826-SM-6LPJW,gtex_training_sample,30-39
+GTEX-11P7K-1026-SM-5HL6Y,gtex_training_sample,30-39
+GTEX-11ZUS-2726-SM-5FQUA,gtex_training_sample,30-39
+GTEX-1S831-2026-SM-EXOJP,gtex_training_sample,20-29
+GTEX-ZU9S-2426-SM-HLJQV,gtex_training_sample,30-39
+TCGA-2G-AAFO-01A,"Embryonal carcinoma, NOS",30-39
+GTEX-U8XE-0126-SM-4E3I3,gtex_training_sample,30-39
+TCGA-2G-AAF1-01A,"Seminoma, NOS",20-29
+GTEX-QV31-1126-SM-CKZNA,gtex_training_sample,30-39
+GTEX-ZAB4-0126-SM-5CVMG,gtex_training_sample,40-49
+TCGA-2G-AAFI-01A,"Embryonal carcinoma, NOS",40-49
+GTEX-ZVTK-0126-SM-57WDG,gtex_training_sample,20-29
+GTEX-1N2DV-1126-SM-HK79P,gtex_training_sample,40-49
+GTEX-15RIE-0626-SM-6M47G,gtex_training_sample,60-69
+TCGA-2G-AAHN-01A,"Seminoma, NOS",30-39
+GTEX-ZYT6-2726-SM-5GICP,gtex_training_sample,30-39
+GTEX-1PPH8-1226-SM-DPRXO,gtex_training_sample,20-29
+TCGA-2G-AAFH-01A,"Seminoma, NOS",30-39
+TCGA-2G-AAHC-01A,"Seminoma, NOS",30-39
+TCGA-2G-AAGO-01A,"Embryonal carcinoma, NOS",40-49
+TCGA-YU-A90S-01A,"Seminoma, NOS",20-29
+TCGA-SB-A6J6-01A,"Seminoma, NOS",20-29
+GTEX-1PIGE-1626-SM-DPRZE,gtex_training_sample,20-29
+GTEX-YJ8A-2226-SM-H7OFM,gtex_training_sample,20-29
+TCGA-2G-AAHG-01A,"Seminoma, NOS",20-29
+TCGA-VF-A8A8-01A,"Embryonal carcinoma, NOS",<20
+TCGA-2G-AAGZ-01A,"Embryonal carcinoma, NOS",20-29
+GTEX-YB5E-1926-SM-5IFIG,gtex_training_sample,40-49
+TCGA-YU-A912-01A,"Seminoma, NOS",30-39
+TCGA-2X-A9D5-01A,"Seminoma, NOS",40-49
+GTEX-11EQ9-1926-SM-5PNVV,gtex_training_sample,30-39
+TCGA-SB-A76C-01A,"Seminoma, NOS",30-39
+GTEX-XK95-2726-SM-4V6G6,gtex_training_sample,40-49
+TCGA-2G-AAGV-01A,"Teratoma, benign",20-29
+TCGA-YU-AA61-01A,Mixed germ cell tumor,20-29
+GTEX-15RJ7-1826-SM-7KUMJ,gtex_training_sample,40-49
+GTEX-14BIL-2226-SM-5P9I4,gtex_training_sample,50-59
+TCGA-2G-AAG5-01A,"Teratoma, benign",30-39
+GTEX-1PBJJ-1726-SM-HLJQN,gtex_training_sample,30-39
+GTEX-15G1A-1526-SM-7KUMM,gtex_training_sample,30-39
+TCGA-2G-AAGE-01A,"Embryonal carcinoma, NOS",20-29
+TCGA-2X-A9D6-01A,"Seminoma, NOS",40-49
+GTEX-1JKYN-1026-SM-CGQG4,gtex_training_sample,30-39
+TCGA-2G-AAGM-01A,Yolk sac tumor,50-59
+GTEX-11O72-0726-SM-5P9GO,gtex_training_sample,40-49
+TCGA-SN-A6IS-01A,Mixed germ cell tumor,20-29
+GTEX-1IDJF-2226-SM-AHZ2T,gtex_training_sample,20-29
+TCGA-2G-AAFV-01A,Yolk sac tumor,30-39
+GTEX-Y8E4-2226-SM-5LU94,gtex_training_sample,40-49
+GTEX-S33H-0126-SM-4AD62,gtex_training_sample,30-39
+TCGA-2G-AAF4-01A,"Seminoma, NOS",30-39
+GTEX-T5JC-0726-SM-4DM55,gtex_training_sample,20-29
+TCGA-VF-A8A9-01A,"Seminoma, NOS",30-39
+GTEX-R55C-1426-SM-48FED,gtex_training_sample,40-49
+GTEX-UPJH-0126-SM-4IHLL,gtex_training_sample,50-59
+GTEX-18QFQ-1926-SM-72D5H,gtex_training_sample,30-39
+TCGA-2G-AAGI-05A,Mixed germ cell tumor,30-39
+TCGA-ZM-AA0F-01A,"Seminoma, NOS",30-39
+GTEX-18A67-1826-SM-7KFT7,gtex_training_sample,50-59
+TCGA-2G-AAFM-01A,"Embryonal carcinoma, NOS",30-39
+TCGA-YU-A90P-01A,"Embryonal carcinoma, NOS",20-29
+GTEX-11NSD-1026-SM-5N9BE,gtex_training_sample,20-29
+GTEX-1HB9E-1926-SM-D4P34,gtex_training_sample,50-59
+TCGA-2G-AAFZ-01A,Mixed germ cell tumor,30-39
+TCGA-XE-AAO4-01A,"Seminoma, NOS",40-49
+TCGA-X3-A8G4-01A,Mixed germ cell tumor,30-39
+GTEX-1RAZR-2226-SM-E6CRG,gtex_training_sample,40-49
+TCGA-2G-AAH3-01A,"Seminoma, NOS",20-29
+TCGA-XE-AANI-01A,Teratocarcinoma,30-39
+TCGA-SO-A8JP-01A,"Seminoma, NOS",20-29
+GTEX-13FTW-1326-SM-5LZZD,gtex_training_sample,40-49
+TCGA-2G-AAFY-01A,"Embryonal carcinoma, NOS",20-29
+GTEX-1EN7A-2226-SM-7MXU6,gtex_training_sample,40-49
+TCGA-2G-AAEX-01A,"Seminoma, NOS",30-39
+TCGA-4K-AA1H-01A,"Seminoma, NOS",20-29
+TCGA-2G-AAHL-01A,"Seminoma, NOS",20-29
+GTEX-145LT-0426-SM-5LUAP,gtex_training_sample,40-49
+TCGA-VF-A8AC-01A,"Seminoma, NOS",20-29
+GTEX-ZTX8-1126-SM-51MRM,gtex_training_sample,20-29
+GTEX-1PIIG-0526-SM-E6CQM,gtex_training_sample,30-39
+GTEX-PLZ6-1226-SM-3P5ZS,gtex_training_sample,30-39
+GTEX-145MO-0126-SM-5S2QU,gtex_training_sample,60-69
+GTEX-S4Q7-1226-SM-4AD5I,gtex_training_sample,20-29
+GTEX-1H11D-1626-SM-9JGHM,gtex_training_sample,40-49
+GTEX-U3ZH-1526-SM-4DXV1,gtex_training_sample,30-39
+GTEX-11TT1-2226-SM-5GU6B,gtex_training_sample,20-29
+TCGA-2G-AAKL-01A,"Embryonal carcinoma, NOS",20-29
+TCGA-2G-AAKH-01A,"Embryonal carcinoma, NOS",<20
+TCGA-W4-A7U3-01A,Mixed germ cell tumor,20-29
+GTEX-ZA64-1626-SM-5CVME,gtex_training_sample,20-29
+TCGA-YU-A94I-01A,Yolk sac tumor,60-69
+GTEX-14PJN-1626-SM-68727,gtex_training_sample,30-39
+TCGA-2G-AAF6-01A,"Seminoma, NOS",20-29
+GTEX-XAJ8-1326-SM-47JYT,gtex_training_sample,40-49
+TCGA-YU-A90Y-01A,"Embryonal carcinoma, NOS",20-29
+GTEX-1QP9N-1326-SM-DPRZN,gtex_training_sample,30-39
+GTEX-1GMR3-1726-SM-9JGGQ,gtex_training_sample,40-49
+GTEX-O5YT-2126-SM-G8W7R,gtex_training_sample,20-29
+TCGA-4K-AA1I-01A,"Seminoma, NOS",20-29
+GTEX-1I1GU-0726-SM-ARU7H,gtex_training_sample,40-49
+TCGA-2G-AAGW-01A,Yolk sac tumor,30-39
+TCGA-XE-AANV-01A,"Seminoma, NOS",50-59
+GTEX-14A6H-2326-SM-5Q5B5,gtex_training_sample,30-39
+TCGA-2G-AAGF-01A,Mixed germ cell tumor,20-29
+TCGA-VF-A8AE-01A,"Seminoma, NOS",30-39
+GTEX-SNMC-1026-SM-4DM7K,gtex_training_sample,20-29
+GTEX-1KANA-1626-SM-CXZL2,gtex_training_sample,20-29
+GTEX-X5EB-2026-SM-4E3KA,gtex_training_sample,40-49
+TCGA-2G-AAKD-01A,"Embryonal carcinoma, NOS",<20
+TCGA-XE-AAOJ-01A,Mixed germ cell tumor,20-29
+TCGA-2G-AAGC-01A,Mixed germ cell tumor,20-29
+TCGA-2G-AAH8-01A,"Seminoma, NOS",40-49
+GTEX-Y9LG-1726-SM-4VBQE,gtex_training_sample,30-39
+GTEX-16NFA-2026-SM-HAV35,gtex_training_sample,50-59
+TCGA-ZM-AA06-01A,"Seminoma, NOS",40-49
+TCGA-WZ-A7V3-01A,"Seminoma, NOS",20-29
+TCGA-2G-AAHP-01A,"Seminoma, NOS",30-39
+TCGA-2G-AAG7-01A,Mixed germ cell tumor,30-39
+TCGA-XE-A8H4-01A,"Seminoma, NOS",20-29
+GTEX-1B8KZ-1826-SM-73KVJ,gtex_training_sample,50-59
+TCGA-XE-A8H5-01A,"Seminoma, NOS",20-29
+TCGA-2G-AAFN-01A,"Embryonal carcinoma, NOS",20-29
+GTEX-1RAZA-2126-SM-EVR4A,gtex_training_sample,20-29
+TCGA-2G-AAFJ-01A,"Teratoma, malignant, NOS",20-29
+TCGA-2G-AAGP-01A,Mixed germ cell tumor,30-39
+GTEX-XQ3S-2726-SM-4BOP2,gtex_training_sample,20-29
+TCGA-SN-A84X-01A,Mixed germ cell tumor,20-29
+TCGA-XE-A8H1-01A,"Embryonal carcinoma, NOS",20-29
+TCGA-XE-AAOL-01A,"Seminoma, NOS",30-39
+TCGA-XY-A8S2-01A,"Embryonal carcinoma, NOS",60-69
+GTEX-15RIF-1826-SM-6M469,gtex_training_sample,20-29
+GTEX-1B8SF-2926-SM-731DL,gtex_training_sample,60-69
+GTEX-ZPU1-2126-SM-57WED,gtex_training_sample,40-49
+GTEX-ZTSS-1526-SM-51MTC,gtex_training_sample,40-49
+GTEX-12C56-1426-SM-5FQSW,gtex_training_sample,20-29
+TCGA-ZM-AA0H-01A,"Seminoma, NOS",50-59
+GTEX-1A3MV-0726-SM-72D5M,gtex_training_sample,30-39
+GTEX-R55E-0726-SM-48FCZ,gtex_training_sample,20-29
+GTEX-ZVP2-1026-SM-59HKF,gtex_training_sample,50-59
+GTEX-1JKYR-1626-SM-AHZ3L,gtex_training_sample,20-29
+TCGA-2G-AAGA-01A,"Embryonal carcinoma, NOS",30-39
+TCGA-XY-A9T9-01A,"Seminoma, NOS",30-39
+TCGA-XY-A89B-01A,"Seminoma, NOS",30-39
+TCGA-2G-AAGG-01A,Mixed germ cell tumor,20-29
+TCGA-2G-AAL5-01A,Mixed germ cell tumor,30-39
+TCGA-XE-A9SE-01A,"Seminoma, NOS",30-39
+TCGA-XE-AANR-01A,"Seminoma, NOS",20-29
+TCGA-ZM-AA0D-01A,"Seminoma, NOS",30-39
+TCGA-2G-AAG6-01A,"Teratoma, benign",20-29
+GTEX-ZLFU-2026-SM-4WWG2,gtex_training_sample,40-49
+TCGA-S6-A8JY-01A,"Seminoma, NOS",20-29
+TCGA-XE-AAOC-01A,"Teratoma, malignant, NOS",30-39
+GTEX-ZZ64-1126-SM-5GZXY,gtex_training_sample,20-29
+GTEX-1C4CL-1926-SM-731DY,gtex_training_sample,30-39
+GTEX-17MFQ-0826-SM-793C8,gtex_training_sample,20-29
+TCGA-YU-A94D-01A,"Teratoma, malignant, NOS",20-29
+TCGA-2G-AAHT-01A,"Seminoma, NOS",30-39
+TCGA-YU-AA4L-01A,"Embryonal carcinoma, NOS",20-29
+GTEX-13NYB-2226-SM-5MR58,gtex_training_sample,40-49
+TCGA-ZM-AA05-01A,"Seminoma, NOS",30-39
+GTEX-WHSE-0426-SM-4M1XO,gtex_training_sample,20-29
+TCGA-WZ-A7V5-01A,"Seminoma, NOS",20-29
+TCGA-2G-AAG8-01A,"Embryonal carcinoma, NOS",20-29
+TCGA-ZM-AA0B-01A,"Seminoma, NOS",30-39
+GTEX-14E6E-1026-SM-664N9,gtex_training_sample,30-39
+TCGA-YU-A90Q-01A,"Seminoma, NOS",20-29
+TCGA-2G-AAGN-01A,"Embryonal carcinoma, NOS",40-49
+GTEX-17EUY-0926-SM-H7OFW,gtex_training_sample,20-29
