@@ -1,1 +1,1 @@
-Čia yra TCGA-TGCT tyrimo duomenys. Yra keli meta duomenų failai. Skaitant mdata_2 su python'u naudoti: "mdata_2 = pd.read_csv(url, sep = '|', index_col = 0)"
+Čia yra TCGA-TGCT tyrimo duomenys. Yra keli meta duomenų failai. Skaitant mdata_1 su python'u naudoti: "mdata_1 = pd.read_csv(url_mdata_1, sep = ';', index_col=0)", o mdata_2  naudoti : "mdata_2 = pd.read_csv(url, sep = '|', index_col = 0)". 
