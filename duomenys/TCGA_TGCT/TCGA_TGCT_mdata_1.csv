@@ -1,0 +1,157 @@
+sample_ids;sample_type;sample_type_id;tumor_descriptor;specimen_type;synchronous_malignancy;site_of_resection_or_biopsy;age_at_index;days_to_birth;primary_diagnosis;prior_treatments;prior_malignancy;tissue_or_organ_of_origin;ajcc_pathologic_stage;diagnosis_is_primary_disease
+TCGA-XE-AAOD-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;39.0;-14265.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage IB;True
+TCGA-2G-AAEW-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;31.0;-11325.0;Seminoma, NOS;No;no;Testis, NOS;Stage IS;True
+TCGA-2G-AAF6-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;28.0;-10281.0;Seminoma, NOS;No;no;Testis, NOS;Stage IS;True
+TCGA-XY-A8S3-01B;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;24.0;-8835.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage IS;True
+TCGA-2X-A9D5-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;49.0;-17969.0;Seminoma, NOS;No;no;Testis, NOS;Stage I;True
+TCGA-VF-A8A8-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;18.0;-6822.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-YU-AA61-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;29.0;-10635.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage IS;True
+TCGA-2G-AAFV-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;31.0;-11598.0;Yolk sac tumor;No;no;Testis, NOS;Stage IS;True
+TCGA-2X-A9D6-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;42.0;-15371.0;Seminoma, NOS;No;no;Testis, NOS;Stage I;True
+TCGA-2G-AAFY-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;24.0;-9023.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage IIA;True
+TCGA-2G-AAGC-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;28.0;-10518.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage IS;True
+TCGA-S6-A8JY-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;27.0;-10219.0;Seminoma, NOS;No;no;Testis, NOS;Stage IS;True
+TCGA-XE-AAOF-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;50.0;-18490.0;Seminoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-W4-A7U2-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;26.0;-9573.0;Mixed germ cell tumor;No;no;Testis, NOS;;True
+TCGA-2G-AAKO-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;;;Not Reported;;not reported;Testis, NOS;;True
+TCGA-2G-AAKO-05A;Additional - New Primary;5;New Primary;Unknown;No;Testis, NOS;;;Not Reported;;not reported;Testis, NOS;;True
+TCGA-2G-AALY-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;;;Not Reported;;not reported;Testis, NOS;;True
+TCGA-2G-AAGY-01A;Primary Tumor;1;Primary;Solid Tissue;;Not Reported;28.0;-10338.0;Not Reported;Yes;;Testis, NOS;;False
+TCGA-2G-AAGY-05A;Additional - New Primary;5;New Primary;Unknown;;Not Reported;28.0;-10338.0;Not Reported;Yes;;Testis, NOS;;False
+TCGA-2G-AAG0-01A;Primary Tumor;1;Primary;Solid Tissue;;Not Reported;23.0;-8687.0;Germ cell tumor, NOS;;;Testis, NOS;Stage IB;False
+TCGA-2G-AAEX-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;38.0;-13964.0;Seminoma, NOS;No;no;Testis, NOS;Stage IS;True
+TCGA-2G-AAH2-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;20.0;-7635.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage IS;True
+TCGA-YU-AA4L-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;27.0;-9902.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage IIIC;True
+TCGA-4K-AA1H-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;26.0;-9658.0;Seminoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-2G-AAGT-01A;Primary Tumor;1;Primary;Solid Tissue;;Not Reported;30.0;-10967.0;Mixed germ cell tumor;Yes;;Intra-abdominal lymph nodes;;False
+TCGA-XY-A8S2-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;67.0;-24759.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage I;True
+TCGA-2G-AALO-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;;;Not Reported;;not reported;Testis, NOS;;True
+TCGA-YU-A90S-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;26.0;-9531.0;Seminoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-2G-AAG9-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;25.0;-9210.0;Seminoma, NOS;No;no;Testis, NOS;Stage IIIB;True
+TCGA-2G-AAGW-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;38.0;-14197.0;Yolk sac tumor;No;no;Testis, NOS;Stage IS;True
+TCGA-2G-AAL5-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;31.0;-11478.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage I;True
+TCGA-2G-AAKG-01A;Primary Tumor;1;Primary;Solid Tissue;;Not Reported;22.0;-8353.0;Not Reported;Yes;;Testis, NOS;;False
+TCGA-2G-AAKG-05A;Additional - New Primary;5;New Primary;Unknown;;Not Reported;22.0;-8353.0;Not Reported;Yes;;Testis, NOS;;False
+TCGA-ZM-AA0D-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;34.0;-12738.0;Seminoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-W4-A7U3-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;26.0;-9581.0;Mixed germ cell tumor;No;no;Testis, NOS;;True
+TCGA-YU-A90W-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;45.0;-16497.0;Seminoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-2G-AAGJ-01A;Primary Tumor;1;Primary;Solid Tissue;;Not Reported;28.0;-10348.0;Mixed germ cell tumor;Yes;;Intra-abdominal lymph nodes;;False
+TCGA-VF-A8AC-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;29.0;-10598.0;Seminoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-SN-A84X-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;21.0;-7833.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage IS;True
+TCGA-4K-AAAL-01A;Primary Tumor;1;Primary;Solid Tissue;;Not Reported;31.0;-11622.0;Seminoma, NOS;Yes;;Lymph node, NOS;;False
+TCGA-XE-AAO6-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;47.0;-17417.0;Seminoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-2G-AAGE-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;21.0;-7753.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage IS;True
+TCGA-2G-AAFG-01A;Primary Tumor;1;Primary;Solid Tissue;;Not Reported;30.0;-11002.0;Not Reported;Yes;;Testis, NOS;;False
+TCGA-2G-AAFG-05A;Additional - New Primary;5;New Primary;Unknown;;Not Reported;30.0;-11002.0;Not Reported;Yes;;Testis, NOS;;False
+TCGA-2G-AALG-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;;;Not Reported;;not reported;Testis, NOS;;True
+TCGA-2G-AAGO-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;41.0;-15300.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage IS;True
+TCGA-2G-AAFO-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;33.0;-12298.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage IIA;True
+TCGA-2G-AAGV-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;23.0;-8612.0;Teratoma, benign;No;no;Testis, NOS;Stage II;True
+TCGA-2G-AAM3-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;;;Not Reported;;not reported;Testis, NOS;;True
+TCGA-2G-AAH8-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;45.0;-16687.0;Seminoma, NOS;No;no;Testis, NOS;Stage IIIC;True
+TCGA-SB-A76C-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;38.0;-14023.0;Seminoma, NOS;No;no;Testis, NOS;;True
+TCGA-2G-AAFI-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;41.0;-14976.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage IB;True
+TCGA-SN-A6IS-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;26.0;-9618.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage IS;True
+TCGA-XE-AAOB-01A;Primary Tumor;1;Primary;Solid Tissue;;Not Reported;27.0;-9907.0;Teratocarcinoma;Yes;;Liver;;False
+TCGA-YU-A90Y-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;23.0;-8460.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage IIIC;True
+TCGA-WZ-A8D5-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;38.0;-13974.0;Seminoma, NOS;No;no;Testis, NOS;Stage IB;True
+TCGA-2G-AAGF-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;28.0;-10348.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage IS;True
+TCGA-XE-A8H4-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;23.0;-8728.0;Seminoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-2G-AALX-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;;;Not Reported;;not reported;Testis, NOS;;True
+TCGA-2G-AAHT-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;32.0;-11905.0;Seminoma, NOS;No;no;Testis, NOS;Stage IS;True
+TCGA-YU-A90Q-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;21.0;-7846.0;Seminoma, NOS;No;no;Testis, NOS;Stage IB;True
+TCGA-ZM-AA0H-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;50.0;-18419.0;Seminoma, NOS;No;no;Testis, NOS;Stage IS;True
+TCGA-YU-A90P-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;25.0;-9144.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-2G-AAGX-01A;Primary Tumor;1;Primary;Solid Tissue;;Not Reported;22.0;-8326.0;Not Reported;Yes;;Testis, NOS;;False
+TCGA-XY-A9T9-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;37.0;-13604.0;Seminoma, NOS;No;no;Testis, NOS;Stage IS;True
+TCGA-2G-AAFM-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;31.0;-11607.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage IIA;True
+TCGA-2G-AAGK-01A;Primary Tumor;1;Primary;Solid Tissue;;Not Reported;20.0;-7378.0;Mixed germ cell tumor;Yes;;Intra-abdominal lymph nodes;;False
+TCGA-WZ-A7V4-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;28.0;-10262.0;Seminoma, NOS;No;no;Testis, NOS;Stage I;True
+TCGA-2G-AAGS-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;39.0;-14312.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage IIIB;True
+TCGA-2G-AAKM-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;14.0;-5321.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage II;True
+TCGA-XE-AAOL-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;38.0;-14230.0;Seminoma, NOS;No;no;Testis, NOS;Stage I;True
+TCGA-YU-A912-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;34.0;-12552.0;Seminoma, NOS;No;no;Testis, NOS;Stage IIIC;True
+TCGA-2G-AAGN-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;41.0;-15145.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage IIIB;True
+TCGA-2G-AAG3-01A;Primary Tumor;1;Primary;Solid Tissue;;Not Reported;53.0;-19583.0;Not Reported;Yes;;Lung, NOS;;False
+TCGA-2G-AAF8-01A;Primary Tumor;1;Primary;Solid Tissue;;Not Reported;33.0;-12256.0;Not Reported;Yes;;Testis, NOS;;False
+TCGA-VF-A8AA-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;51.0;-18940.0;Seminoma, NOS;No;no;Testis, NOS;Stage I;True
+TCGA-2G-AALZ-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;;;Not Reported;;not reported;Testis, NOS;;True
+TCGA-2G-AAHL-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;26.0;-9749.0;Seminoma, NOS;No;no;Testis, NOS;Stage I;True
+TCGA-2G-AAGG-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;20.0;-7330.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage IIIC;True
+TCGA-W4-A7U4-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;23.0;-8518.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;;True
+TCGA-VF-A8AD-01A;Primary Tumor;1;Primary;Solid Tissue;;Not Reported;36.0;-13499.0;Embryonal carcinoma, NOS;Yes;;Testis, NOS;;False
+TCGA-2G-AALF-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;;;Not Reported;;not reported;Testis, NOS;;True
+TCGA-XE-AANI-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;37.0;-13553.0;Teratocarcinoma;No;no;Testis, NOS;Stage IS;True
+TCGA-2G-AALP-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;43.0;-15977.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage IIIB;True
+TCGA-2G-AAKH-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;19.0;-6954.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage II;True
+TCGA-WZ-A7V5-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;27.0;-9886.0;Seminoma, NOS;No;no;Testis, NOS;Stage I;True
+TCGA-2G-AAHN-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;32.0;-12028.0;Seminoma, NOS;No;no;Testis, NOS;Stage I;True
+TCGA-2G-AAG8-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;21.0;-7688.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage IB;True
+TCGA-VF-A8AE-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;39.0;-14535.0;Seminoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-2G-AAHA-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;48.0;-17658.0;Seminoma, NOS;No;no;Testis, NOS;Stage IB;True
+TCGA-2G-AAH0-01A;Primary Tumor;1;Primary;Solid Tissue;;Not Reported;30.0;-11123.0;Seminoma, NOS;Yes;;Intra-abdominal lymph nodes;;False
+TCGA-2G-AAH4-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;34.0;-12481.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage II;True
+TCGA-4K-AA1G-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;34.0;-12696.0;Seminoma, NOS;No;no;Testis, NOS;Stage IS;True
+TCGA-VF-A8AB-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;31.0;-11659.0;Seminoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-2G-AALN-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;;;Not Reported;;not reported;Testis, NOS;;True
+TCGA-ZM-AA0N-01A;Primary Tumor;1;Primary;Solid Tissue;;Not Reported;44.0;-16094.0;Seminoma, NOS;Yes;;Intra-abdominal lymph nodes;;False
+TCGA-2G-AALW-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;;;Not Reported;;not reported;Testis, NOS;;True
+TCGA-WZ-A7V3-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;20.0;-7325.0;Seminoma, NOS;No;no;Testis, NOS;Stage I;True
+TCGA-2G-AAH3-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;20.0;-7474.0;Seminoma, NOS;No;no;Testis, NOS;Stage I;True
+TCGA-4K-AA1I-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;26.0;-9679.0;Seminoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-S6-A8JX-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;27.0;-9963.0;Seminoma, NOS;No;no;Testis, NOS;Stage IB;True
+TCGA-SO-A8JP-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;29.0;-10765.0;Seminoma, NOS;No;no;Testis, NOS;Stage I;True
+TCGA-2G-AAFZ-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;32.0;-11761.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage III;True
+TCGA-XE-AANR-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;23.0;-8761.0;Seminoma, NOS;No;no;Testis, NOS;Stage I;True
+TCGA-XE-AAOJ-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;24.0;-9046.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage IS;True
+TCGA-2G-AAHG-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;25.0;-9476.0;Seminoma, NOS;No;no;Testis, NOS;Stage I;True
+TCGA-2G-AAGP-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;33.0;-12202.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage IIA;True
+TCGA-2G-AAFE-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;37.0;-13845.0;Seminoma, NOS;No;yes;Testis, NOS;Stage IIA;True
+TCGA-2G-AAGA-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;38.0;-14053.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage IIA;True
+TCGA-ZM-AA05-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;36.0;-13295.0;Seminoma, NOS;No;no;Testis, NOS;Stage IIC;True
+TCGA-2G-AAKD-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;18.0;-6814.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage III;True
+TCGA-X3-A8G4-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;33.0;-12117.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage IS;True
+TCGA-2G-AAG7-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;33.0;-12180.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage IS;True
+TCGA-2G-AAG5-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;36.0;-13497.0;Teratoma, benign;No;no;Testis, NOS;Stage IS;True
+TCGA-XE-A8H1-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;24.0;-8893.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage IS;True
+TCGA-2G-AAF1-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;28.0;-10511.0;Seminoma, NOS;No;no;Testis, NOS;Stage IS;True
+TCGA-2G-AAFL-01A;Primary Tumor;1;Primary;Solid Tissue;;Not Reported;35.0;-12898.0;Not Reported;Yes;;Testis, NOS;;False
+TCGA-2G-AAHC-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;33.0;-12105.0;Seminoma, NOS;No;no;Testis, NOS;Stage IS;True
+TCGA-ZM-AA0B-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;32.0;-11820.0;Seminoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-XE-A9SE-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;35.0;-12850.0;Seminoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-2G-AAM4-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;;;Not Reported;;not reported;Testis, NOS;;True
+TCGA-2G-AALS-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;;;Not Reported;;not reported;Testis, NOS;;True
+TCGA-ZM-AA0E-01A;Primary Tumor;1;Primary;Solid Tissue;Yes;Testis, NOS;39.0;-14255.0;Seminoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-2G-AAGM-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;51.0;-18696.0;Yolk sac tumor;No;no;Testis, NOS;Stage IS;True
+TCGA-XE-AAO3-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;33.0;-12095.0;Seminoma, NOS;No;no;Testis, NOS;Stage I;True
+TCGA-YU-A94D-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;28.0;-10427.0;Teratoma, malignant, NOS;No;no;Testis, NOS;Stage IIIB;True
+TCGA-2G-AALR-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;;;Not Reported;;not reported;Testis, NOS;;True
+TCGA-XE-AAOC-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;31.0;-11566.0;Teratoma, malignant, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-2G-AAFN-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;26.0;-9805.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage IIIB;True
+TCGA-XY-A89B-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;35.0;-12955.0;Seminoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-ZM-AA0F-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;35.0;-12973.0;Seminoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-2G-AAL7-01A;Primary Tumor;1;Primary;Solid Tissue;;Not Reported;32.0;-11917.0;Embryonal carcinoma, NOS;Yes;;Intra-abdominal lymph nodes;;False
+TCGA-2G-AAGZ-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;27.0;-10157.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage IIIA;True
+TCGA-SN-A84Y-01A;Primary Tumor;1;Primary;Solid Tissue;;Not Reported;18.0;-6805.0;Embryonal carcinoma, NOS;Yes;;Bone, NOS;;False
+TCGA-2G-AAM2-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;;;Not Reported;;not reported;Testis, NOS;;True
+TCGA-SN-A84W-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;30.0;-11251.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage IS;True
+TCGA-XE-AANJ-01A;Primary Tumor;1;Primary;Solid Tissue;;Not Reported;39.0;-14314.0;Seminoma, NOS;Yes;;Testis, NOS;;False
+TCGA-2G-AAHP-05A;Additional - New Primary;5;New Primary;Unknown;No;Testis, NOS;31.0;-11649.0;Seminoma, NOS;No;no;Testis, NOS;Stage IS;True
+TCGA-2G-AAHP-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;31.0;-11649.0;Seminoma, NOS;No;no;Testis, NOS;Stage IS;True
+TCGA-2G-AAKL-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;26.0;-9813.0;Embryonal carcinoma, NOS;No;no;Testis, NOS;Stage II;True
+TCGA-2G-AAGI-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;33.0;-12366.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage IS;True
+TCGA-2G-AAGI-05A;Additional - New Primary;5;New Primary;Unknown;No;Testis, NOS;33.0;-12366.0;Mixed germ cell tumor;No;no;Testis, NOS;Stage IS;True
+TCGA-XE-AAO4-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;40.0;-14930.0;Seminoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-2G-AALT-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;;;Not Reported;;not reported;Testis, NOS;;True
+TCGA-YU-A94I-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;66.0;-24349.0;Yolk sac tumor;No;no;Testis, NOS;Stage IA;True
+TCGA-XE-A8H5-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;29.0;-10942.0;Seminoma, NOS;No;no;Testis, NOS;Stage IS;True
+TCGA-2G-AAF4-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;30.0;-10983.0;Seminoma, NOS;No;no;Testis, NOS;Stage I;True
+TCGA-2G-AALQ-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;;;Not Reported;;not reported;Testis, NOS;;True
+TCGA-2G-AAFJ-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;23.0;-8415.0;Teratoma, malignant, NOS;No;no;Testis, NOS;Stage I;True
+TCGA-S6-A8JW-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;37.0;-13861.0;Seminoma, NOS;No;no;Testis, NOS;Stage IS;True
+TCGA-ZM-AA06-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;45.0;-16719.0;Seminoma, NOS;No;no;Testis, NOS;Stage IB;True
+TCGA-XE-AANV-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;52.0;-19112.0;Seminoma, NOS;No;no;Testis, NOS;Stage IB;True
+TCGA-2G-AAFH-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;38.0;-14120.0;Seminoma, NOS;No;no;Testis, NOS;Stage IIB;True
+TCGA-SB-A6J6-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;22.0;-8233.0;Seminoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-VF-A8A9-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;31.0;-11520.0;Seminoma, NOS;No;no;Testis, NOS;Stage IA;True
+TCGA-2G-AAG6-01A;Primary Tumor;1;Primary;Solid Tissue;No;Testis, NOS;24.0;-9071.0;Teratoma, benign;No;no;Testis, NOS;Stage IS;True
